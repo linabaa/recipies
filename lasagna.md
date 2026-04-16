@@ -1,4 +1,0 @@
-# Lasagna
-## Ingredients 
-* viande
-* fromage
