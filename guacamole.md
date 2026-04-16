@@ -4,3 +4,4 @@
 * lime 0.99
 * salt 1.60
 ## Instructions
+* peel the avocados 
