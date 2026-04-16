@@ -1,0 +1,6 @@
+# ignore any files whose name ends in .png
+*.png
+# ignore everything in the pictures directory
+pictures/
+# do not ignore pictures/stew/ contents
+!pictures/stew/
